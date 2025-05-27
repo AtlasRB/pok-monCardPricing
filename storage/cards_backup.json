@@ -1,0 +1,422 @@
+[
+    {
+        "id": 5,
+        "name": "Rattata - 66\/108",
+        "number": 19,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/rattata-66-108-non-holo-unlimited-evolutions\/xy12-66-2-1\/",
+        "price": 0.09,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:21:25.000000Z",
+        "updated_at": "2025-02-17T16:21:25.000000Z"
+    },
+    {
+        "id": 6,
+        "name": "Rattata - 61\/102",
+        "number": 19,
+        "link": "https:\/\/pokecardvalues.co.uk\/search\/?q=Rattata+61%2F102",
+        "price": 1,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:23:21.000000Z",
+        "updated_at": "2025-02-17T16:23:21.000000Z"
+    },
+    {
+        "id": 7,
+        "name": "Meowth - 53\/83",
+        "number": 52,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/meowth-53-83-non-holo-unlimited-generations\/g1-53-2-1\/",
+        "price": 0.14,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:25:03.000000Z",
+        "updated_at": "2025-02-17T16:25:03.000000Z"
+    },
+    {
+        "id": 8,
+        "name": "Pikachu - 26\/83",
+        "number": 25,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/pikachu-26-83-non-holo-unlimited-generations\/g1-26-2-1\/",
+        "price": 0.87,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:26:04.000000Z",
+        "updated_at": "2025-02-17T16:26:04.000000Z"
+    },
+    {
+        "id": 9,
+        "name": "Electabuzz - 42\/122",
+        "number": 125,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/electabuzz-42-122-non-holo-unlimited-breakpoint\/xy9-42-2-1\/",
+        "price": 0.07,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:27:13.000000Z",
+        "updated_at": "2025-02-17T16:27:13.000000Z"
+    },
+    {
+        "id": 10,
+        "name": "Magikarp - 22\/83",
+        "number": 129,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/magikarp-22-83-non-holo-unlimited-generations\/g1-22-2-1\/",
+        "price": 0.25,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:29:54.000000Z",
+        "updated_at": "2025-02-17T16:29:54.000000Z"
+    },
+    {
+        "id": 11,
+        "name": "Magikarp - 22\/83",
+        "number": 129,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/magikarp-22-83-non-holo-unlimited-generations\/g1-22-2-1\/",
+        "price": 0.25,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:30:24.000000Z",
+        "updated_at": "2025-02-17T16:30:24.000000Z"
+    },
+    {
+        "id": 12,
+        "name": "Shellder - 19\/83",
+        "number": 90,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/shellder-19-83-non-holo-unlimited-generations\/g1-19-2-1\/",
+        "price": 0.11,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:31:22.000000Z",
+        "updated_at": "2025-02-17T16:31:22.000000Z"
+    },
+    {
+        "id": 13,
+        "name": "Shellder - 22\/122",
+        "number": 90,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/shellder-22-122-non-holo-unlimited-breakpoint\/xy9-22-2-1\/",
+        "price": 0.05,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:32:16.000000Z",
+        "updated_at": "2025-02-17T16:32:16.000000Z"
+    },
+    {
+        "id": 14,
+        "name": "Poliwag - 23\/108",
+        "number": 60,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/poliwag-23-108-non-holo-unlimited-evolutions\/xy12-23-2-1\/",
+        "price": 0.06,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:33:17.000000Z",
+        "updated_at": "2025-02-17T16:33:17.000000Z"
+    },
+    {
+        "id": 15,
+        "name": "Krabby - 21\/83",
+        "number": 98,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/krabby-21-83-non-holo-unlimited-generations\/g1-21-2-1\/",
+        "price": 0.12,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:35:12.000000Z",
+        "updated_at": "2025-02-17T16:35:12.000000Z"
+    },
+    {
+        "id": 16,
+        "name": "Seel - 15\/124",
+        "number": 86,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/seel-15-124-non-holo-unlimited-fates-collide\/xy10-15-2-1\/",
+        "price": 0.06,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:36:23.000000Z",
+        "updated_at": "2025-02-17T16:36:23.000000Z"
+    },
+    {
+        "id": 17,
+        "name": "Cloyster - 20\/83",
+        "number": 91,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/cloyster-20-83-reverse-holo-unlimited-generations\/g1-20-3-1\/",
+        "price": 0.45,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:38:37.000000Z",
+        "updated_at": "2025-02-17T16:38:37.000000Z"
+    },
+    {
+        "id": 18,
+        "name": "Diglett - 36\/124",
+        "number": 50,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/diglett-36-124-non-holo-unlimited-fates-collide\/xy10-36-2-1\/",
+        "price": 0.06,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:39:43.000000Z",
+        "updated_at": "2025-02-17T16:39:43.000000Z"
+    },
+    {
+        "id": 19,
+        "name": "Geodude - 47\/62",
+        "number": 74,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/geodude-47-62-non-holo-unlimited-fossil\/base3-47-2-1\/",
+        "price": 0.25,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:41:11.000000Z",
+        "updated_at": "2025-02-17T16:41:11.000000Z"
+    },
+    {
+        "id": 20,
+        "name": "Machop - 40\/83",
+        "number": 66,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/machop-40-83-non-holo-unlimited-generations\/g1-40-2-1\/",
+        "price": 0.12,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:42:15.000000Z",
+        "updated_at": "2025-02-17T16:42:15.000000Z"
+    },
+    {
+        "id": 21,
+        "name": "Rhyhorn - 49\/83",
+        "number": 111,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/rhyhorn-49-83-non-holo-unlimited-generations\/g1-49-2-1\/",
+        "price": 0.12,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:43:13.000000Z",
+        "updated_at": "2025-02-17T16:43:13.000000Z"
+    },
+    {
+        "id": 22,
+        "name": "Hitmonlee - 47\/83",
+        "number": 106,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/hitmonlee-47-83-non-holo-unlimited-generations\/g1-47-2-1\/",
+        "price": 0.26,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:44:14.000000Z",
+        "updated_at": "2025-02-17T16:44:14.000000Z"
+    },
+    {
+        "id": 23,
+        "name": "Machoke - 41\/83",
+        "number": 67,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/machoke-41-83-non-holo-unlimited-generations\/g1-41-2-1\/",
+        "price": 0.17,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:45:17.000000Z",
+        "updated_at": "2025-02-17T16:45:17.000000Z"
+    },
+    {
+        "id": 24,
+        "name": "Graveler - 44\/83",
+        "number": 75,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/graveler-44-83-non-holo-unlimited-generations\/g1-44-2-1\/",
+        "price": 0.24,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:46:24.000000Z",
+        "updated_at": "2025-02-17T16:46:24.000000Z"
+    },
+    {
+        "id": 25,
+        "name": "Weedle - 5\/108",
+        "number": 13,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/weedle-5-108-non-holo-unlimited-evolutions\/xy12-5-2-1\/",
+        "price": 0.1,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:47:28.000000Z",
+        "updated_at": "2025-02-17T16:47:28.000000Z"
+    },
+    {
+        "id": 26,
+        "name": "Paras - 6\/83",
+        "number": 46,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/paras-6-83-reverse-holo-unlimited-generations\/g1-6-3-1\/",
+        "price": 0.87,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:48:27.000000Z",
+        "updated_at": "2025-02-17T16:48:27.000000Z"
+    },
+    {
+        "id": 27,
+        "name": "Tangela - 8\/83",
+        "number": 114,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/tangela-8-83-non-holo-unlimited-generations\/g1-8-2-1\/",
+        "price": 0.1,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:49:28.000000Z",
+        "updated_at": "2025-02-17T16:49:28.000000Z"
+    },
+    {
+        "id": 28,
+        "name": "Tangela - 8\/83",
+        "number": 114,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/tangela-8-83-non-holo-unlimited-generations\/g1-8-2-1\/",
+        "price": 0.1,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:50:09.000000Z",
+        "updated_at": "2025-02-17T16:50:09.000000Z"
+    },
+    {
+        "id": 29,
+        "name": "Vulpix - 20\/160",
+        "number": 37,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/vulpix-20-160-non-holo-unlimited-primal-clash\/xy5-20-2-1\/",
+        "price": 0.19,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:51:06.000000Z",
+        "updated_at": "2025-02-17T16:51:06.000000Z"
+    },
+    {
+        "id": 30,
+        "name": "Charmander - 9\/108",
+        "number": 4,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/charmander-9-108-non-holo-unlimited-evolutions\/xy12-9-2-1\/",
+        "price": 0.11,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:52:07.000000Z",
+        "updated_at": "2025-02-17T16:52:07.000000Z"
+    },
+    {
+        "id": 31,
+        "name": "Charmander - 9\/108",
+        "number": 4,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/charmander-9-108-non-holo-unlimited-evolutions\/xy12-9-2-1\/",
+        "price": 0.11,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:52:45.000000Z",
+        "updated_at": "2025-02-17T16:52:45.000000Z"
+    },
+    {
+        "id": 32,
+        "name": "Growlithe - 17\/108",
+        "number": 58,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/growlithe-17-108-non-holo-unlimited-evolutions\/xy12-17-2-1\/",
+        "price": 0.08,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:53:46.000000Z",
+        "updated_at": "2025-02-17T16:53:46.000000Z"
+    },
+    {
+        "id": 33,
+        "name": "Magmar - 16\/83",
+        "number": 126,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/magmar-16-83-non-holo-unlimited-generations\/g1-16-2-1\/",
+        "price": 0.11,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:54:51.000000Z",
+        "updated_at": "2025-02-17T16:54:51.000000Z"
+    },
+    {
+        "id": 34,
+        "name": "Magmar - 16\/83",
+        "number": 126,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/magmar-16-83-non-holo-unlimited-generations\/g1-16-2-1\/",
+        "price": 0.11,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:55:15.000000Z",
+        "updated_at": "2025-02-17T16:55:15.000000Z"
+    },
+    {
+        "id": 35,
+        "name": "Magmar - 16\/83",
+        "number": 126,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/magmar-16-83-non-holo-unlimited-generations\/g1-16-2-1\/",
+        "price": 0.11,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:55:50.000000Z",
+        "updated_at": "2025-02-17T16:55:50.000000Z"
+    },
+    {
+        "id": 36,
+        "name": "Charmeleon - 10\/108",
+        "number": 5,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/charmeleon-10-108-non-holo-unlimited-evolutions\/xy12-10-2-1\/",
+        "price": 0.14,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:57:26.000000Z",
+        "updated_at": "2025-02-17T16:57:26.000000Z"
+    },
+    {
+        "id": 37,
+        "name": "Gastly - 33\/83",
+        "number": 92,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/gastly-33-83-non-holo-unlimited-generations\/g1-33-2-1\/",
+        "price": 0.18,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:58:13.000000Z",
+        "updated_at": "2025-02-17T16:58:13.000000Z"
+    },
+    {
+        "id": 38,
+        "name": "Gastly - 33\/83",
+        "number": 92,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/gastly-33-83-non-holo-unlimited-generations\/g1-33-2-1\/",
+        "price": 0.18,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:58:40.000000Z",
+        "updated_at": "2025-02-17T16:58:40.000000Z"
+    },
+    {
+        "id": 39,
+        "name": "Gastly - 47\/108",
+        "number": 92,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/gastly-47-108-non-holo-unlimited-evolutions\/xy12-47-2-1\/",
+        "price": 0.07,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T16:59:37.000000Z",
+        "updated_at": "2025-02-17T16:59:37.000000Z"
+    },
+    {
+        "id": 40,
+        "name": "Zubat - 88\/113",
+        "number": 41,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/zubat-88-113-non-holo-unlimited-delta-species\/ex11-88-2-1\/",
+        "price": 0.3,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T17:00:42.000000Z",
+        "updated_at": "2025-02-17T17:00:42.000000Z"
+    },
+    {
+        "id": 41,
+        "name": "Zubat - 30\/83",
+        "number": 41,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/zubat-30-83-non-holo-unlimited-generations\/g1-30-2-1\/",
+        "price": 0.12,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T17:01:37.000000Z",
+        "updated_at": "2025-02-17T17:01:37.000000Z"
+    },
+    {
+        "id": 42,
+        "name": "Slowpoke - 32\/83",
+        "number": 79,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/slowpoke-32-83-non-holo-unlimited-generations\/g1-32-2-1\/",
+        "price": 0.21,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T17:02:31.000000Z",
+        "updated_at": "2025-02-17T17:02:31.000000Z"
+    },
+    {
+        "id": 43,
+        "name": "Golbat - 31\/83",
+        "number": 42,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/golbat-31-83-non-holo-unlimited-generations\/g1-31-2-1\/",
+        "price": 0.2,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T17:03:13.000000Z",
+        "updated_at": "2025-02-17T17:03:13.000000Z"
+    },
+    {
+        "id": 44,
+        "name": "Haunter - 34\/83",
+        "number": 93,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/haunter-34-83-non-holo-unlimited-generations\/g1-34-2-1\/",
+        "price": 0.4,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T17:04:12.000000Z",
+        "updated_at": "2025-02-17T17:04:12.000000Z"
+    },
+    {
+        "id": 45,
+        "name": "Koffing - 27\/124",
+        "number": 109,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/koffing-27-124-non-holo-unlimited-fates-collide\/xy10-27-2-1\/",
+        "price": 0.04,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T17:05:02.000000Z",
+        "updated_at": "2025-02-17T17:05:02.000000Z"
+    },
+    {
+        "id": 46,
+        "name": "Clefable - 51\/83",
+        "number": 36,
+        "link": "https:\/\/pokecardvalues.co.uk\/cards\/clefable-51-83-non-holo-unlimited-generations\/g1-51-2-1\/",
+        "price": 0.22,
+        "type": "Gen 1 - Double",
+        "created_at": "2025-02-17T17:05:48.000000Z",
+        "updated_at": "2025-02-17T17:05:48.000000Z"
+    }
+]
