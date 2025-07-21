@@ -47,8 +47,8 @@ class CardController extends Controller
             'price' => 'required|numeric',
             'link' => 'required|url',
             'type' => 'required|string',
-            'sold' => 'required|boolean',
-            'soldPrice' => 'numeric'
+            'sold' => 'sometimes|boolean',
+            'soldPrice' => 'nullable|numeric'
         ]);
 
         Card::create($request->all());

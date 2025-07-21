@@ -11,7 +11,7 @@
         <div class="container mt-5">
             <h2>Edit Card</h2>
             @php
-                $cardTypes = ['Gen 1 - Not selling', 'Gen 1 - Double', 'Gen 2 - Not selling', 'Gen 2 - Double', 'Gen 3 - Not selling', 'Gen 3 - Double', 'Gen 4 - Not selling', 'Gen 4 - Double', 'Gen 5 - Not selling', 'Gen 5 - Double', 'Items'];
+                $cardTypes = ['Gen 1 - Not selling', 'Gen 1 - Double', 'Gen 2 - Not selling', 'Gen 2 - Double', 'Gen 3 - Not selling', 'Gen 3 - Double', 'Gen 4 - Not selling', 'Gen 4 - Double', 'Gen 5 - Not selling', 'Gen 5 - Double', 'Gen 6 - Not selling', 'Gen 6 - Double', 'Items'];
             @endphp
             <form action="{{ route('cards.update', $card->id) }}" method="POST">
                 @csrf
