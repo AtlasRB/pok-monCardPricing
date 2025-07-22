@@ -93,7 +93,7 @@
 
             <h3>Add New Item</h3>
             @php
-                $cardTypes = ['Gen 1 - Not selling', 'Gen 1 - Double', 'Gen 2 - Not selling', 'Gen 2 - Double', 'Gen 3 - Not selling', 'Gen 3 - Double', 'Gen 4 - Not selling', 'Gen 4 - Double', 'Gen 5 - Not selling', 'Gen 5 - Double', 'Gen 6 - Not selling', 'Gen 6 - Double', 'Items - Not selling', 'Items - Double'];
+                $cardTypes = ['Gen 1 - Not selling', 'Gen 1 - Double', 'Gen 2 - Not selling', 'Gen 2 - Double', 'Gen 3 - Not selling', 'Gen 3 - Double', 'Gen 4 - Not selling', 'Gen 4 - Double', 'Gen 5 - Not selling', 'Gen 5 - Double', 'Gen 6 - Not selling', 'Gen 6 - Double', 'Items - Not selling', 'Items - Double', 'Energy'];
             @endphp
             <form action="{{ route('cards.store') }}" method="POST" class="mb-5">
                 @csrf
