@@ -32,11 +32,15 @@ class CardController extends Controller
 
         $cards = $query->get();
         $totalCards = $cards->count();
-        $totalPrice = $cards->sum('price');
+        $soldCount = $cards->where('sold', true)->count();
+        $unsoldCount = $cards->where('sold', false)->count();
+        $totalPrice = $cards->sum('price');    
+        $soldPrice = $cards->where('sold', true)->sum('soldPrice');
+        $unsoldPrice = $cards->where('sold', false)->sum('price');
         $averagePrice = $totalCards > 0 ? $totalPrice / $totalCards : 0;
         $types = Card::select('type')->distinct()->pluck('type');
 
-        return view('cards.index', compact('cards', 'sortBy', 'direction', 'totalCards', 'totalPrice', 'averagePrice', 'selectedType', 'types'));
+        return view('cards.index', compact('cards', 'sortBy', 'direction', 'totalCards', 'totalPrice', 'averagePrice', 'selectedType', 'types', 'soldCount', 'unsoldCount', 'soldPrice', 'unsoldPrice'));
     }
 
     public function store(Request $request)

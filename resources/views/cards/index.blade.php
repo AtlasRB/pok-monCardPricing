@@ -88,8 +88,15 @@
 
             <h3>Stats</h3>
             <p>Total Cards: {{ $totalCards }}</p>
+            <p>Total Unsold Cards: {{ $unsoldCount }}</p>          
+            <p>Total Sold Cards: {{ $soldCount }}</p>
+            <br>
             <p>Total Price: £{{ number_format($totalPrice, 2) }}</p>
+            <p>Total Unsold Price: £{{ number_format($unsoldPrice, 2) }}</p>
+            <p>Total Sold Price: £{{ number_format($soldPrice, 2) }}</p>
+            <br>
             <p>Average Price Per Card: £{{ number_format($averagePrice, 2) }}</p>
+            <br>
 
             <h3>Add New Item</h3>
             @php
